@@ -1,13 +1,14 @@
 <?php
 /**
- * Plugin Name: campaign plugin
- * Plugin URI: efe.com.vn
- * Description: integrate list user ticket in list
+ * Plugin Name: Tickera Active Campaign Add-On
+ * Plugin URI: http://efe.com.vn
+ * Description: Easily integrate Active Campaign with your Tickera plugin.
  * Version: 1.0
- * Author: hau.nguyen
- * Author URI: hau.nguyen@efe.com.vn
- * License: GPLv2
+ * Author: EFE Technology
+ * Author URI: http://efe.com.vn
+ * License: GPLv2 or later
  */
+
  if (!defined('ABSPATH'))
      exit; // Exit if accessed directly
 
